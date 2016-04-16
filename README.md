@@ -13,6 +13,7 @@ index.py will take the as input, which depends on
 ``` sh
 $ python index.py
 ```
+index.py will store the inverted index into a directory index
 
 To search_by_query.py
 
