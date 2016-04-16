@@ -31,3 +31,5 @@ area 51
 little green alien
 
 ```
+
+Some libraries should be installed before you run the code. NLTK, Whoosh, Networkx, sklearn.
