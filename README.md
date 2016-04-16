@@ -8,7 +8,11 @@ search_by_query.py will take txt file as input and search for the queries with t
 
 
 To run index.py
-python index.py
+$ python index.py
 
 To search_by_query.py
-python search_by_query.py sample_queries.txt
+$ python search_by_query.py sample_queries.txt
+
+Queries in sample_queries.txt should sperated by lines.
+
+
