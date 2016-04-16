@@ -16,3 +16,8 @@ $ python search_by_query.py sample_queries.txt
 Queries in sample_queries.txt should sperated by lines.
 
 
+``` sh
+$ script/bootstrap
+==> Installing gem dependencies…
+==> Installing npm dependencies…
+```
