@@ -29,7 +29,8 @@ this is a sample of list of queries in sample_queries.txt
 fast fireball
 area 51
 little green alien
-
 ```
 
 Some libraries should be installed before you run the code. NLTK, Whoosh, Networkx, sklearn.
+
+Part of Evaluation is been done in result_evaulation.csv
