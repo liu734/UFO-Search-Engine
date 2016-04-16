@@ -8,16 +8,25 @@ search_by_query.py will take txt file as input and search for the queries with t
 
 
 To run index.py
-$ python index.py
-
-To search_by_query.py
-$ python search_by_query.py sample_queries.txt
-
-Queries in sample_queries.txt should sperated by lines.
-
+index.py will take the as input, which depends on 
 
 ``` sh
-$ script/bootstrap
-==> Installing gem dependencies…
-==> Installing npm dependencies…
+$ python index.py
+```
+
+To search_by_query.py
+
+``` sh
+$ python search_by_query.py sample_queries.txt
+
+```
+Queries in sample_queries.txt should sperated by lines.
+
+this is a sample of list of queries in sample_queries.txt
+
+``` sh
+fast fireball
+area 51
+little green alien
+
 ```
