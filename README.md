@@ -1,8 +1,8 @@
 # UFO-Search-Engine
 
-#Liu, Jingye(jingye)
-#Lee, Younghoon (younggns)
-#Klein, Joseph (armennen)
+#Liu, Jingye
+#Lee, Younghoon
+#Klein, Joseph
 
 The UFO-Search Engine is software and a command line program to search for UFO witness in our UFO documnet index.
 
